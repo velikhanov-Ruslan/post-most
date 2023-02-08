@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "type": "text",
+            "name": "login",
+            "placeholder": "Email / Логин",
+            "required": true
+        },
+        {
+            "type": "text",
+            "name": "security",
+            "placeholder": "Контрольная строка",
+            "required": true
+        },
+        {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Новый пароль",
+            "required": true
+        },
+        {
+            "type": "password",
+            "name": "confirmation",
+            "placeholder": "Подтверждение пароля",
+            "required": true
+        }
+    ]
+}
